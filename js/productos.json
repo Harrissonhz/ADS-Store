@@ -986,7 +986,7 @@
   },
   {
     "id": "LogicaProgramacion",
-    "nombre": "Logica de programacion,",
+    "nombre": "Logica de programacion.",
     "descripcion": "¿Quieres dar tus primeros pasos en el mundo de la programación? Este curso te guiará desde cero en el desarrollo del pensamiento lógico necesario para escribir código efectivo. Aprenderás los fundamentos de la lógica de programación a través de ejercicios prácticos y ejemplos claros, preparándote para abordar cualquier lenguaje de programación con una base sólida. ¡Desbloquea tu potencial como desarrollador!",
     "precio": 20000,
     "categorias": [
@@ -1025,6 +1025,31 @@
     "caracteristicas": [
       "100% Virtuales y Flexibles",
       "Curso virtual de POO",
+      "Documentación y recursos descargables",
+      "Acceso a foros de discusión y soporte"
+    ],
+    "agotado": false
+  },
+  {
+    "id": "ProductoDigitalPremium",
+    "nombre": "Producto Digital Premium",
+    "descripcion": "Selecciona 10 de los Cursos Desarrollo de Software. realiza la compra y te enviaremos un correo con el acceso a los cursos seleccionados.",
+    "precio": 16000,
+    "categorias": [
+      "Cursos Virtuales"
+    ],
+    "imagenes": [
+      "https://outletshop.github.io/imgTienda/img/CursosVirtuales/22.jpg",
+      "https://outletshop.github.io/imgTienda/img/CursosVirtuales/19.jpg",
+      "https://outletshop.github.io/imgTienda/img/CursosVirtuales/39.jpg",
+      "https://outletshop.github.io/imgTienda/img/CursosVirtuales/14.jpg",
+      "https://outletshop.github.io/imgTienda/img/CursosVirtuales/54.jpg",
+      "https://outletshop.github.io/imgTienda/img/CursosVirtuales/26.jpg"
+    ],
+    "video": "https://www.youtube.com/watch?v=PTZ4Yfznwq4",
+    "caracteristicas": [
+      "100% Virtuales y Flexibles",
+      "Curso virtual de Logica de Programación",
       "Documentación y recursos descargables",
       "Acceso a foros de discusión y soporte"
     ],
