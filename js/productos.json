@@ -944,7 +944,6 @@
       "https://outletshop.github.io/imgTienda/img/AL026-MolinoMarihuana/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL026-MolinoMarihuana/4.jpg",
       "https://outletshop.github.io/imgTienda/img/AL026-MolinoMarihuana/5.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL026-MolinoMarihuana/6.jpg",
       "https://outletshop.github.io/imgTienda/img/AL026-MolinoMarihuana/7.jpg",
       "https://outletshop.github.io/imgTienda/img/AL026-MolinoMarihuana/8.jpg",
       "https://outletshop.github.io/imgTienda/img/AL026-MolinoMarihuana/9.jpg",
@@ -1002,6 +1001,37 @@
       "Material resistente al agua",
       "Gran capacidad de almacenamiento",
       "Facil Instalación"
+    ],
+    "agotado": false
+  },
+    {
+    "id": "AL028-MolinilloPimientaDoble",
+    "nombre": "Molinillo Doble De Sal Y Pimienta Acero Inoxidable",
+    "descripcion": "Molinillo doble de sal y pimienta en acero inoxidable, resistente, práctico y con diseño elegante para tu mesa o cocina.",
+    "precio": 30000,
+    "color": [
+      "Acero Inoxidable"
+    ],
+    "diseño": [
+      "Doble Sal y Pimienta"
+    ],
+    "categorias": [
+      "Todos Los Productos",
+      "Hogar",
+      "Mujeres"
+    ],
+    "imagenes": [
+      "https://outletshop.github.io/imgTienda/img/AL025-BolsoPopUNICORNIO/1.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL025-BolsoPopUNICORNIO/2.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL025-BolsoPopUNICORNIO/3.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL025-BolsoPopUNICORNIO/4.jpg"
+    ],
+    "caracteristicas": [
+      "Diseño 2 en 1.",
+      "Material duradero.",
+      "Molienda ajustable.",
+      "Fácil de usar.",
+      "Elegante y moderno."
     ],
     "agotado": false
   },
