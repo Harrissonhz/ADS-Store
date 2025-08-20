@@ -1639,7 +1639,12 @@
     "descripcion": "Memoria USB mini de 16 a 32GB, compacta y resistente para transporte de datos.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Negro",
+      "Plata"
+    ],
+    "diseño": [
+      "16 GB",
+      "32 GB"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1650,9 +1655,19 @@
       "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/13.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/14.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL049-MiniUSB16-32GB/15.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/toSq_ZBbcQ0?si=6MwDq7yHshDDGGY7",
     "caracteristicas": [
       "Tamaño compacto",
       "Compatibilidad amplia",
@@ -1891,7 +1906,6 @@
       "https://outletshop.github.io/imgTienda/img/AL058-MáquinaLiarPORROS110mm/15.jpg"
     ],
     "video": "https://www.youtube.com/embed/aQOOwiwhXEQ?si=XPuwSCBvj2cq6aJH",
-    "video2": "https://www.youtube.com/embed/2p0IBXoswPM?si=pnscjqplW4qKYRMj",
     "caracteristicas": [
       "Uso sencillo",
       "Material resistente",
