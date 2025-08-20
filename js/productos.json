@@ -1279,7 +1279,7 @@
     "descripcion": "Protector para superficies del baño que evita salpicaduras y facilita la limpieza.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Transparente"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1290,9 +1290,14 @@
       "https://outletshop.github.io/imgTienda/img/AL036-ProtectorBaño/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL036-ProtectorBaño/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL036-ProtectorBaño/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL036-ProtectorBaño/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL036-ProtectorBaño/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL036-ProtectorBaño/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL036-ProtectorBaño/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL036-ProtectorBaño/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL036-ProtectorBaño/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL036-ProtectorBaño/10.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/DzEqV5FcTOw?si=BSh0urUfaClkBRJJ",
     "caracteristicas": [
       "Fácil instalación",
       "Resistente al agua",
@@ -1307,7 +1312,7 @@
     "descripcion": "Set de brocas multiuso para tareas de bricolaje y hogar.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Dorado"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1319,9 +1324,14 @@
       "https://outletshop.github.io/imgTienda/img/AL037-Brocas/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL037-Brocas/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL037-Brocas/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL037-Brocas/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL037-Brocas/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL037-Brocas/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL037-Brocas/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL037-Brocas/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL037-Brocas/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL037-Brocas/10.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/3f20QrHslRQ?si=cap__QEQY9eknYQP",
     "caracteristicas": [
       "Múltiples medidas",
       "Alta durabilidad",
@@ -1482,20 +1492,26 @@
     "descripcion": "Timbre inalámbrico de bienvenida KERUI con múltiples tonos y volumen ajustable.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Blanco"
     ],
     "categorias": [
       "Todos Los Productos",
-      "Hogar"
+      "Hogar",
+      "Gadgets y Tecnología"
     ],
     "imagenes": [
       "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/1.jpg",
       "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/10.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/7z-QNqgB9Hw?si=Uxx0ETKXQWdjZ-fa",
     "caracteristicas": [
       "Volumen ajustable",
       "Varios tonos",
@@ -1508,22 +1524,31 @@
     "id": "AL044-TimbreBienvenida",
     "nombre": "Timbre de Bienvenida",
     "descripcion": "Timbre inalámbrico de bienvenida para el hogar con alcance amplio y fácil instalación.",
-    "precio": 30000,
+    "precio": 62000,
     "color": [
-      "Variado"
+      "Blanco"
     ],
     "categorias": [
       "Todos Los Productos",
-      "Hogar"
+      "Hogar",
+      "Gadgets y Tecnología"
     ],
     "imagenes": [
       "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/1.jpg",
       "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/13.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/hfSC7qh9tzE?si=-0e3GB74wL-oD4VZ",
     "caracteristicas": [
       "Bajo consumo",
       "Alcance extendido",
@@ -2119,6 +2144,10 @@
     "color": [
       "Variado"
     ],
+    "diseño": [
+      "Unicornio",
+      "Vaca"
+    ],
     "categorias": [
       "Todos Los Productos",
       "Niños",
@@ -2129,9 +2158,13 @@
       "https://outletshop.github.io/imgTienda/img/AL067-FiambreraTridimensionalUNICORNIO-VACA/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL067-FiambreraTridimensionalUNICORNIO-VACA/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL067-FiambreraTridimensionalUNICORNIO-VACA/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL067-FiambreraTridimensionalUNICORNIO-VACA/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL067-FiambreraTridimensionalUNICORNIO-VACA/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL067-FiambreraTridimensionalUNICORNIO-VACA/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL067-FiambreraTridimensionalUNICORNIO-VACA/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL067-FiambreraTridimensionalUNICORNIO-VACA/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL067-FiambreraTridimensionalUNICORNIO-VACA/9.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/Noykt9YnvSg?si=7l46cZHwEDiUuSv_",
     "caracteristicas": [
       "Diseño infantil",
       "Cierre seguro",
@@ -2249,9 +2282,11 @@
       "https://outletshop.github.io/imgTienda/img/AL071-CucharaArrozCubierta/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL071-CucharaArrozCubierta/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL071-CucharaArrozCubierta/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL071-CucharaArrozCubierta/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL071-CucharaArrozCubierta/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL071-CucharaArrozCubierta/7.jpg",  
+      "https://outletshop.github.io/imgTienda/img/AL071-CucharaArrozCubierta/22.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/FFAz-mIU0rM?si=DEoiQ25t8R1_Zo_U",
     "caracteristicas": [
       "Antiadherente",
       "Base estable",
