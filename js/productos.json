@@ -3207,9 +3207,9 @@
     "id": "AZ002-Usb4GBConCordon",
     "nombre": "USB 4GB con Cordón",
     "descripcion": "Memoria USB de 4GB con cordón para fácil transporte y seguridad.",
-    "precio": 30000,
+    "precio": 10000,
     "color": [
-      "Variado"
+      "Negro"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -3220,9 +3220,19 @@
       "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/13.jpg",
+      "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/14.jpg",
+      "https://outletshop.github.io/imgTienda/img/AZ002-Usb4GBConCordon/15.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/RLdOJdE6Me8?si=RnnF7xcDIYTQpjuP",
     "caracteristicas": [
       "4GB de almacenamiento",
       "Cordón incluido",
