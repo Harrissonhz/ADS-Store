@@ -299,7 +299,7 @@
       "https://outletshop.github.io/imgTienda/img/AL008-SoportePcArana/12.jpg",
       "https://outletshop.github.io/imgTienda/img/AL008-SoportePcArana/13.jpg"
     ],
-    "video": "https://www.youtube.com/watch?v=kIJf-7RBqSM",
+    "video": "https://www.youtube.com/embed/kIJf-7RBqSM?si=nUgews2d4-ow3j0a",
     "caracteristicas": [
       "Universal y Compatible",
       "Diseño Ergonómico",
@@ -379,9 +379,10 @@
       "https://outletshop.github.io/imgTienda/img/AL010-SetComidaBebe/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL010-SetComidaBebe/4.jpg",
       "https://outletshop.github.io/imgTienda/img/AL010-SetComidaBebe/5.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL010-SetComidaBebe/6.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL010-SetComidaBebe/6.jpg", 
+      "https://outletshop.github.io/imgTienda/img/AL010-SetComidaBebe/7.jpg"
     ],
-    "video": "https://www.youtube.com/watch?v=y17ljJ7GHjE",
+    "video": "https://www.youtube.com/embed/y17ljJ7GHjE?si=IJFKPdxkp66APp0m",
     "caracteristicas": [
       "Silicona de Grado Alimenticio",
       "Diseño Ergonómico",
@@ -508,9 +509,10 @@
       "https://outletshop.github.io/imgTienda/img/AL013-SoporteCelularLaptop/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL013-SoporteCelularLaptop/4.jpg",
       "https://outletshop.github.io/imgTienda/img/AL013-SoporteCelularLaptop/5.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL013-SoporteCelularLaptop/6.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL013-SoporteCelularLaptop/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL013-SoporteCelularLaptop/7.jpg"
     ],
-    "video": "https://www.youtube.com/watch?v=Wy322eV-eig",
+    "video": "https://www.youtube.com/embed/Wy322eV-eig?si=tk7u2isIgeMzHjdr",
     "caracteristicas": [
       "Tecnología Magnética Avanzada.",
       "Rotación de 360 Grados.",
@@ -545,9 +547,13 @@
       "https://outletshop.github.io/imgTienda/img/AL014-JugueteMascotaComida/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL014-JugueteMascotaComida/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL014-JugueteMascotaComida/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL014-JugueteMascotaComida/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL014-JugueteMascotaComida/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL014-JugueteMascotaComida/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL014-JugueteMascotaComida/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL014-JugueteMascotaComida/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL014-JugueteMascotaComida/9.jpg"
     ],
-    "video": "https://www.youtube.com/watch?v=DYDjtfQe-bQ",
+    "video": "https://www.youtube.com/embed/DYDjtfQe-bQ?si=x2bQ28NwcsIiShss",
     "caracteristicas": [
       "Diversión Interactiva.",
       "Auto Dispensador de Alimento.",
@@ -3258,28 +3264,31 @@
     "id": "AZ004-AudifonosDiademaBluetooth",
     "nombre": "Audífonos Diadema Bluetooth",
     "descripcion": "Audífonos de diadema con conexión Bluetooth, ideales para música y llamadas.",
-    "precio": 30000,
+    "precio": 80000,
     "color": [
-      "Variado"
+      "Negro"
     ],
     "categorias": [
       "Todos Los Productos",
-      "Gadgets y Tecnología"
+      "Gadgets y Tecnología",
+      "Hombres",
+      "Mujeres"
     ],
     "imagenes": [
       "https://outletshop.github.io/imgTienda/img/AZ004-AudifonosDiademaBluetooth/1.jpg",
       "https://outletshop.github.io/imgTienda/img/AZ004-AudifonosDiademaBluetooth/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AZ004-AudifonosDiademaBluetooth/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AZ004-AudifonosDiademaBluetooth/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AZ004-AudifonosDiademaBluetooth/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AZ004-AudifonosDiademaBluetooth/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AZ004-AudifonosDiademaBluetooth/6.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/hyNxY-Zs2Z0?si=M7b5a3iOLmrFLgDc",
     "caracteristicas": [
       "Conexión Bluetooth",
       "Sonido de calidad",
       "Micrófono integrado"
     ],
-    "agotado": false
+    "agotado": true
   },
 
   {
@@ -3535,31 +3544,6 @@
       "Protección completa",
       "Diseño atractivo",
       "Material resistente"
-    ],
-    "agotado": false
-  },
-
-  {
-    "id": "soporte-laptop-araña",
-    "nombre": "Soporte para Computador Portátil en aluminio en forma de araña",
-    "descripcion": "Soporte ergonómico ajustable para laptop que mejora la postura y la ventilación de tu dispositivo. En aluminio, con un diseño moderno y funcional. y con un diseño de aluminio en forma de araña exclusivo para ti. en forma de araña con 5 niveles de altura ajustable.",
-    "precio": 40000,
-    "categorias": [
-      "Todos Los Productos",
-      "Tecnología",
-      "Accesorios",
-      "Oficina",
-      "Hombres",
-      "Mujeres"
-    ],
-    "imagenes": [
-      "img/SoporteLaptop.jpg"
-    ],
-    "video": "https://www.youtube.com/embed/otroVideoID2",
-    "caracteristicas": [
-      "Aluminio resistente",
-      "5 niveles de altura ajustable",
-      "Mejora la ventilación"
     ],
     "agotado": false
   },
