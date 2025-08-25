@@ -1059,7 +1059,7 @@
   {
     "id": "AL027-BolsoPatinetaElectrica",
     "nombre": "Bolso Patineta Eléctrica NEWBOLER",
-    "descripcion": "El compañero ideal para llevar tu patineta eléctrica a todas partes! Diseñado para brindarte comodidad y estilo, este bolso es la solución perfecta para transportar tus objetos personales en tu patineta de manera fácil y elegante.",
+    "descripcion": "El bolso de transporte para patineta eléctrica NEWBOLE está diseñado para ofrecer comodidad y protección en todo momento. Fabricado con materiales resistentes y duraderos, protege tu patineta contra golpes, polvo y salpicaduras, alargando su vida útil. Su diseño ligero y portátil permite llevarla fácilmente a cualquier lugar, mientras que la correa ajustable brinda mayor comodidad al transportarla. Con un cierre de cremallera seguro y práctico, este bolso es el accesorio ideal para quienes buscan cuidar y movilizar su patineta eléctrica con estilo y seguridad.",
     "precio": 80000,
     "color": [
       "Negro"
@@ -1090,18 +1090,18 @@
       "https://outletshop.github.io/imgTienda/img/AL027-BolsoPatinetaElectrica/15.jpg",
       "https://outletshop.github.io/imgTienda/img/AL027-BolsoPatinetaElectrica/16.jpg"        
     ],
-    "video": "https://www.youtube.com/embed/mhgVdjLEf1g?si=P5_m5Hgxu3YJlGd5",
+    "video": "https://www.youtube.com/embed/mhgVdjLEf1g?si=2rRCh3qRQykCLBLC",
     "caracteristicas": [
       "Material resistente al agua",
       "Gran capacidad de almacenamiento",
       "Facil Instalación"
     ],
-    "agotado": false
+    "agotado": true
   },
     {
     "id": "AL028-MolinilloPimientaDoble",
     "nombre": "Molinillo Doble De Sal Y Pimienta Acero Inoxidable",
-    "descripcion": "Molinillo doble de sal y pimienta en acero inoxidable, resistente, práctico y con diseño elegante para tu mesa o cocina.",
+    "descripcion": "El molinillo doble de sal y pimienta en acero inoxidable combina practicidad y elegancia en un solo accesorio de cocina. Su diseño 2 en 1 permite moler sal y pimienta en un mismo utensilio, ahorrando espacio y manteniendo tu mesa organizada. Fabricado en acero inoxidable resistente a la corrosión, garantiza durabilidad y un uso prolongado. Además, cuenta con un sistema de molienda ajustable para elegir el grosor según tus preferencias, convirtiéndose en el complemento ideal para realzar el sabor de tus comidas con estilo y comodidad.",
     "precio": 30000,
     "color": [
       "Acero Inoxidable"
@@ -1111,8 +1111,7 @@
     ],
     "categorias": [
       "Todos Los Productos",
-      "Hogar",
-      "Mujeres"
+      "Hogar"
     ],
     "imagenes": [
       "https://outletshop.github.io/imgTienda/img/AL028-MolinilloPimientaDoble/1.jpg",
@@ -1134,7 +1133,6 @@
     ],
     "agotado": false
   },
-  
   {
     "id": "AL029-EspejoBicicleta",
     "nombre": "Espejo para Bicicleta",
