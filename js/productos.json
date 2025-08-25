@@ -49,7 +49,6 @@
       "Todos Los Productos",
       "Imperdibles",
       "Hombres",
-      "Deportes",
       "Gadgets y Tecnología"
     ],
     "imagenes": [
@@ -87,7 +86,6 @@
       "Todos Los Productos",
       "Imperdibles",
       "Hombres",
-      "Deportes",
       "Gadgets y Tecnología"
     ],
     "imagenes": [
@@ -124,7 +122,6 @@
       "Todos Los Productos",
       "Imperdibles",
       "Hombres",
-      "Deportes",
       "Gadgets y Tecnología"
     ],
     "imagenes": [
@@ -161,7 +158,6 @@
       "Todos Los Productos",
       "Imperdibles",
       "Hombres",
-      "Deportes",
       "Gadgets y Tecnología",
       "Super Oferta",
       "Remate Saldos"
@@ -200,7 +196,6 @@
       "Todos Los Productos",
       "Imperdibles",
       "Hombres",
-      "Deportes",
       "Gadgets y Tecnología"
     ],
     "imagenes": [
@@ -240,7 +235,6 @@
       "Todos Los Productos",
       "Imperdibles",
       "Hombres",
-      "Deportes",
       "Gadgets y Tecnología"
     ],
     "imagenes": [
@@ -612,7 +606,7 @@
   {
     "id": "AL016-TopesPuertaCarro",
     "nombre": "Set X8 Amortiguador Anti Golpe De Puerta Carro En Caucho",
-    "descripcion": "Este dispositivo revolucionario combina precisión, comodidad y tecnología de vanguardia para ofrecerle una experiencia de seguimiento de su salud más completa que nunca. Nuestra báscula digital inteligente se conecta de forma inalámbrica a su smartphone o tablet a través de Bluetooth. Esto permite que sus datos de peso y otros parámetros se sincronicen automáticamente con una aplicación dedicada en su dispositivo.",
+    "descripcion": "El juego de 8 amortiguadores antigolpe para puertas de carro está diseñado para proteger tu vehículo de rayones, golpes y abolladuras al abrir las puertas en espacios reducidos. Fabricados en caucho flexible y de alta resistencia, absorben el impacto de manera efectiva sin dañar la pintura. Su instalación es rápida y sencilla gracias al adhesivo de alta calidad, mientras que su diseño discreto y universal se adapta a cualquier modelo de vehículo, ofreciendo seguridad y estilo en todo momento.",
     "precio": 10000,
     "color": [
       "Negro"
@@ -640,14 +634,14 @@
       "https://outletshop.github.io/imgTienda/img/AL016-TopesPuertaCarro/11.jpg",
       "https://outletshop.github.io/imgTienda/img/AL016-TopesPuertaCarro/12.jpg"
     ],
-    "video": "https://www.youtube.com/embed/Oay0zGHv7zQ?si=Sa8eIE1bEATFWtDI",
+    "video": "https://www.youtube.com/embed/Oay0zGHv7zQ?si=8kp7DusFZWe9hEN5",
     "caracteristicas": [
-      "Conexión Inalámbrica Bluetooth.",
-      "Medición Precisa.",
-      "Diseño Moderno y Elegante.",
-      "Múltiples Perfiles de Usuario.",
-      "Aplicación de Acompañamiento.",
-      "Seguimiento de Tendencias."
+      "Protección efectiva contra golpes.",
+      "Material de caucho flexible y resistente.",
+      "Fácil instalación con adhesivo fuerte y seguro.",
+      "Diseño discreto y universal.",
+      "Compatible con la mayoria de vehículos",
+      "Incluye 8 piezas, suficientes para todas las puertas del carro."
     ],
     "agotado": false
   },
@@ -671,9 +665,20 @@
       "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/1.jpg",
       "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/3.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/4.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/4.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/10.jpg",   
+      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/13.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/14.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL017-Hub8en1tipoc/15.jpg"
     ],
-    "video": "https://www.youtube.com/watch?v=E0iyxwz__pA",
+    "video": "https://www.youtube.com/embed/E0iyxwz__pA?si=IpHVDP5mZ8cw8ec-",
     "caracteristicas": [
       "Adaptador USB Tipo C.",
       "8 puertos.",
@@ -681,7 +686,7 @@
       "Facil de transportat.",
       "Ejegante y practivo."
     ],
-    "agotado": false
+    "agotado": true
   },
   {
     "id": "AL018-SoporteCascoGoPro",
