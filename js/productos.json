@@ -1124,6 +1124,7 @@
       "https://outletshop.github.io/imgTienda/img/AL028-MolinilloPimientaDoble/8.jpg",
       "https://outletshop.github.io/imgTienda/img/AL028-MolinilloPimientaDoble/9.jpg"    
     ],
+    "video": "https://www.youtube.com/embed/CGoluH5_WmU?si=qoSLWQ6abOZt83wC",
     "caracteristicas": [
       "Diseño 2 en 1.",
       "Material duradero.",
@@ -1136,10 +1137,10 @@
   {
     "id": "AL029-EspejoBicicleta",
     "nombre": "Espejo para Bicicleta",
-    "descripcion": "Espejo retrovisor para bicicleta que mejora la visibilidad y la seguridad en la vía.",
+    "descripcion": "Espejo retrovisor abatible. aerodinámico, compacto y liviano, graduable 360°. Se recomienda su uso principalmente para bicicletas de ruta (dropbar) , pero también se puede utilizar en bicicletas con manubrio de montaña o planos. Compatible con manubrios de diámetro interno de 18 a 22 mm. Lente acrílico convexo para mayor rango de visibilidad. Ajuste con plug de expansión para un montaje más firme y seguro. Para su instalación solo se requiere una llave brístol de 4 mm. Peso 24 gr aprox.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Negro"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1176,10 +1177,10 @@
   {
     "id": "AL030-TimbreBicicleta",
     "nombre": "Timbre para Bicicleta",
-    "descripcion": "Timbre de seguridad para bicicleta con sonido claro y fuerte.",
+    "descripcion": "El timbre para bicicleta es un accesorio esencial para garantizar tu seguridad en la vía. Con un sonido claro y fuerte, permite alertar a peatones y otros ciclistas de tu presencia. Su diseño compacto, ligero y fácil de instalar lo hace compatible con la mayoría de manillares, convirtiéndolo en un complemento práctico y necesario para cualquier tipo de bicicleta.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Negro"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1192,7 +1193,7 @@
       "https://outletshop.github.io/imgTienda/img/AL030-TimbreBicicleta/4.jpg",
       "https://outletshop.github.io/imgTienda/img/AL030-TimbreBicicleta/5.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/uTEm-2LFch0?si=5Te1goxskYGkFCIr",
     "caracteristicas": [
       "Sonido potente",
       "Fácil de usar",
@@ -1204,10 +1205,10 @@
   {
     "id": "AL031-TapetearenaGatos",
     "nombre": "Tapete de Arena para Gatos",
-    "descripcion": "Tapete atrapaarena para arenero de gatos que mantiene el piso limpio.",
-    "precio": 30000,
+    "descripcion": "El tapete de arena para gatos está diseñado para mantener tu hogar limpio y libre de desorden. Su superficie con textura especial atrapa los granos de arena que quedan en las patitas de tu gato, evitando que se esparzan por toda la casa. Fabricado en material resistente, antideslizante y fácil de limpiar, brinda comodidad a tu mascota y practicidad a ti. Es la solución perfecta para complementar la caja de arena y mantener un espacio higiénico y ordenado.",
+    "precio": 20000,
     "color": [
-      "Variado"
+      "Negro"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1219,7 +1220,15 @@
       "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/13.jpg"
     ],
     "video": "https://www.youtube.com/embed/pendiente",
     "caracteristicas": [
