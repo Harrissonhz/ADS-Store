@@ -1124,7 +1124,7 @@
       "https://outletshop.github.io/imgTienda/img/AL028-MolinilloPimientaDoble/8.jpg",
       "https://outletshop.github.io/imgTienda/img/AL028-MolinilloPimientaDoble/9.jpg"    
     ],
-    "video": "https://www.youtube.com/embed/CGoluH5_WmU?si=-nhHrVmsu0DwL1rT",
+    "video": "https://www.youtube.com/embed/YWsSInZMZck?si=iJiuBe-UPQDN6Ewc",
     "caracteristicas": [
       "Diseño 2 en 1.",
       "Material duradero.",
@@ -1230,7 +1230,7 @@
       "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/12.jpg",
       "https://outletshop.github.io/imgTienda/img/AL031-TapetearenaGatos/13.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/WJooHg2Dt5E?si=upixZ7mTlF4cYtZV",
     "caracteristicas": [
       "Fácil de limpiar",
       "Material antideslizante",
@@ -1243,9 +1243,10 @@
     "id": "AL032-CepilloParaGatos",
     "nombre": "Cepillo para Gatos",
     "descripcion": "Cepillo removedor de pelo para gatos, suave y efectivo para el cuidado del pelaje.",
-    "precio": 30000,
+    "precio": 15000,
     "color": [
-      "Variado"
+      "Negro",
+      "Gris"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1265,7 +1266,7 @@
       "https://outletshop.github.io/imgTienda/img/AL032-CepilloParaGatos/11.jpg",
       "https://outletshop.github.io/imgTienda/img/AL032-CepilloParaGatos/12.jpg"
     ],
-    "video": "https://www.youtube.com/embed/WUjWuYeq624?si=t1_mqVqqY_ubf0M8",
+    "video": "https://www.youtube.com/embed/WUjWuYeq624?si=nQ1f-i9BX0CMPOdu",
     "caracteristicas": [
       "Cerdas suaves",
       "Reduce la caída de pelo",
@@ -1277,8 +1278,8 @@
   {
     "id": "AL033-SetLimpiarBaño",
     "nombre": "Set para Limpiar Baño",
-    "descripcion": "Kit de limpieza para baño con accesorios esenciales para mantener la higiene del hogar.",
-    "precio": 30000,
+    "descripcion": "La Escobilla para Inodoro de alta calidad es el accesorio ideal para mantener tu baño siempre limpio e impecable. Fabricada con materiales resistentes y un diseño eficiente, elimina la suciedad de manera rápida y sencilla, ofreciendo frescura e higiene en cada uso. Más que una simple escobilla, es la solución práctica y duradera que transforma tu rutina de limpieza.",
+    "precio": 15000,
     "color": [
       "Variado"
     ],
@@ -1291,13 +1292,18 @@
       "https://outletshop.github.io/imgTienda/img/AL033-SetLimpiarBaño/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL033-SetLimpiarBaño/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL033-SetLimpiarBaño/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL033-SetLimpiarBaño/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL033-SetLimpiarBaño/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL033-SetLimpiarBaño/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL033-SetLimpiarBaño/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL033-SetLimpiarBaño/8.jpg"
     ],
     "video": "https://www.youtube.com/embed/pendiente",
     "caracteristicas": [
-      "Material duradero",
-      "Uso multiusos",
-      "Fácil de almacenar"
+      "Material resistente y duradero",
+      "Cerdas firmes y eficientes",
+      "FDiseño ergonómico",
+      "Fácil de limpiar y mantener",
+      "Estilo moderno y discreto"
     ],
     "agotado": false
   },
@@ -1305,10 +1311,10 @@
   {
     "id": "AL034-DispensadorCopitos",
     "nombre": "Dispensador de Copitos",
-    "descripcion": "Dispensador práctico para copitos o hisopos de algodón, ideal para el baño o tocador.",
-    "precio": 30000,
+    "descripcion": "La caja de almacenamiento de algodón para hisopos transparente es práctica, elegante y funcional. Su diseño compacto y moderno permite organizar hisopos, algodones y pequeños accesorios de higiene o belleza, manteniéndolos siempre a la mano y protegidos del polvo. Fabricada en material resistente y fácil de limpiar, es el complemento ideal para mantener tu baño o tocador.",
+    "precio": 15000,
     "color": [
-      "Variado"
+      "Transparente"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1319,13 +1325,19 @@
       "https://outletshop.github.io/imgTienda/img/AL034-DispensadorCopitos/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL034-DispensadorCopitos/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL034-DispensadorCopitos/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL034-DispensadorCopitos/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL034-DispensadorCopitos/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL034-DispensadorCopitos/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL034-DispensadorCopitos/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL034-DispensadorCopitos/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL034-DispensadorCopitos/9.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/u5aBzHQNq10?si=ozeOfTQ5JQT3juYw",
     "caracteristicas": [
-      "Diseño compacto",
-      "Higiénico",
-      "Fácil recarga"
+      "Diseño transparente",
+      "Material resistente y duradero",
+      "Tamaño compacto",
+      "Multiuso",
+      "Fácil de limpiar y mantener"
     ],
     "agotado": false
   },
