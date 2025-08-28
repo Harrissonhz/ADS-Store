@@ -1637,7 +1637,7 @@
       "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/11.jpg",
       "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/12.jpg"
     ],
-    "video": "https://www.youtube.com/embed/qpa3HTqEmjg?si=_EXKp0aZAovjE7mS",
+    "video": "https://www.youtube.com/embed/ECC2RACbj_Q?si=HjVzeH8cZi6rQ7ON",
     "caracteristicas": [
       "Set de 10 soportes adhesivos",
       "Ahorra espacio",
@@ -1650,8 +1650,8 @@
   {
     "id": "AL043-TimbreBienvenidaKERUI",
     "nombre": "Timbre de Bienvenida KERUI",
-    "descripcion": "Timbre inalámbrico de bienvenida KERUI con múltiples tonos y volumen ajustable.",
-    "precio": 30000,
+    "descripcion": "El timbre de bienvenida KERUI es un dispositivo práctico y moderno que emite una melodía clara al detectar movimiento en la entrada de tu hogar o negocio. Su diseño inalámbrico facilita la instalación sin necesidad de cables, mientras que su sensor de movimiento garantiza que siempre seas notificado cuando alguien llegue. Ideal para mejorar la seguridad y brindar una cálida bienvenida a tus visitas.",
+    "precio": 50000,
     "color": [
       "Blanco"
     ],
@@ -1672,20 +1672,22 @@
       "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/9.jpg",
       "https://outletshop.github.io/imgTienda/img/AL043-TimbreBienvenidaKERUI/10.jpg"
     ],
-    "video": "https://www.youtube.com/embed/7z-QNqgB9Hw?si=Uxx0ETKXQWdjZ-fa",
+    "video": "https://www.youtube.com/embed/7z-QNqgB9Hw?si=XSIi849AKY5WC1L8",
     "caracteristicas": [
       "Volumen ajustable",
-      "Varios tonos",
-      "Instalación simple"
+      "Función de bienvenida con melodías claras y agradables",
+      "Instalación inalámbrica y sencilla",
+      "Sensor de movimiento integrado",
+      "Alcance amplio"
     ],
-    "agotado": false
+    "agotado": true
   },
 
   {
     "id": "AL044-TimbreBienvenida",
-    "nombre": "Timbre de Bienvenida",
-    "descripcion": "Timbre inalámbrico de bienvenida para el hogar con alcance amplio y fácil instalación.",
-    "precio": 62000,
+    "nombre": "Timbre Sensor De Bienvenida Para Tiendas Alarma De Puerta",
+    "descripcion": "El timbre sensor de bienvenida para tiendas y alarma de puerta es la solución ideal para recibir clientes y mejorar la seguridad de tu negocio. Gracias a su sensor de movimiento o apertura, emite un sonido claro al detectar ingresos, permitiéndote estar siempre atento a la entrada. De fácil instalación y con diseño compacto, es perfecto para locales comerciales, oficinas o incluso el hogar.",
+    "precio": 40000,
     "color": [
       "Blanco"
     ],
@@ -1709,11 +1711,13 @@
       "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/12.jpg",
       "https://outletshop.github.io/imgTienda/img/AL044-TimbreBienvenida/13.jpg"
     ],
-    "video": "https://www.youtube.com/embed/hfSC7qh9tzE?si=-0e3GB74wL-oD4VZ",
+    "video": "https://www.youtube.com/embed/hfSC7qh9tzE?si=RzkTijxd8CcZIc9Y",
     "caracteristicas": [
-      "Bajo consumo",
+     "32 melodías claras y agradables",
+      "Diseño compacto y versátil",
       "Alcance extendido",
-      "Fácil montaje"
+      "Fácil montaje",
+      "Sonido claro y audible"
     ],
     "agotado": false
   },
