@@ -1725,10 +1725,16 @@
   {
     "id": "AL045-ChupoBebeDivertido",
     "nombre": "Chupete de Bebé Divertido",
-    "descripcion": "Chupete para bebé con diseños divertidos, cómodo y seguro para uso diario.",
+    "descripcion": "El chupete de bebé divertido es un Accesorio original y seguro que combina practicidad con un toque de humor. Disponible en diseños creativos como colmillos, dientes de Drácula, labios o bigotes, transforma cada momento en una sonrisa mientras calma y tranquiliza al bebé. Fabricado con materiales seguros y libres de BPA, es ideal para regalar y para dar un toque diferente a la rutina diaria.",
     "precio": 30000,
     "color": [
       "Variado"
+    ],
+    "diseño": [
+      "Dientes",
+      "Dracula",
+      "Labios",
+      "Bigotes"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1739,12 +1745,30 @@
       "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/13.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/14.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/15.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/16.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/17.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/18.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/19.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/20.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL045-ChupoBebeDivertido/21.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/9hmWOU_9LKY?si=_iB7YTv6jcL2PwA4",
     "caracteristicas": [
-      "Diseños atractivos",
-      "Material seguro",
+      "Diseños divertidos y originales",
+      "Fabricado con materiales seguros y libres de BPA",
+      "Ideal como regalo original",
+      "Apto para bebés de todas las edades",
       "Fácil de limpiar"
     ],
     "agotado": false
