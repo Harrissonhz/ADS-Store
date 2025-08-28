@@ -1453,11 +1453,12 @@
 
   {
     "id": "AL038-Hub4en1TipoC",
-    "nombre": "Hub 4 en 1 Tipo C",
-    "descripcion": "Adaptador USB Tipo C 4 en 1 para ampliar puertos y conexiones en tus dispositivos.",
-    "precio": 30000,
+    "nombre": "Hub Usb Tipo C 4 En 1 3.1 Multi Splitter Otg",
+    "descripcion": "El Hub USB Tipo C 4 en 1 3.1 Multi Splitter OTG es el accesorio ideal para ampliar la conectividad de tu laptop, tablet o smartphone. Con múltiples puertos en un diseño compacto y portátil, te permite conectar dispositivos USB, transferir datos a alta velocidad y disfrutar de un rendimiento eficiente. Su tecnología OTG lo hace compatible con una amplia variedad de equipos, convirtiéndolo en una solución práctica y versátil para el trabajo, estudio o entretenimiento.",
+    "precio": 15000,
     "color": [
-      "Variado"
+      "PLata",
+      "Gris Espacial"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1479,18 +1480,24 @@
     "caracteristicas": [
       "Plug and play",
       "Alta compatibilidad",
-      "Diseño compacto"
+      "Diseño compacto",
+      "4 en 1",
+      "Conexión estable y segura"
     ],
     "agotado": false
   },
 
   {
     "id": "AL039-TapaValvulaLLanta",
-    "nombre": "Tapa de Válvula para Llanta",
-    "descripcion": "Tapa protectora para válvula de llantas que evita polvo y fugas de aire.",
-    "precio": 30000,
+    "nombre": "Tapas De Válvulas De Neumáticos De Coche Diseño Creativos",
+    "descripcion": "Las tapas de válvulas de neumáticos con diseños variados son el accesorio perfecto para darle estilo y protección a tu vehículo. Fabricadas en materiales resistentes, ayudan a mantener la presión de los neumáticos evitando la entrada de polvo, suciedad y humedad. Su instalación es rápida y sencilla, y gracias a sus diferentes diseños, aportan un toque personalizado y único a tu coche.",
+    "precio": 10000,
     "color": [
       "Variado"
+    ],
+    "diseño": [
+      "Punisher",
+      "Diseño De OzDiseño De Oz"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1501,24 +1508,40 @@
       "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/13.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/14.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/15.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/16.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/17.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/18.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL039-TapaValvulaLLanta/19.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/u5aBzHQNq10?si=VTewRrYmMBvVU_Eu",
     "caracteristicas": [
-      "Protección contra polvo",
+      "Set de tapas de válvulas con diseños variados",
       "Fácil de instalar",
-      "Duradero"
+      "Protección efectiva",
+      "Material duradero",
+      "Compatibilidad universal"
     ],
     "agotado": false
   },
 
   {
     "id": "AL040-RodillerasBebegateo",
-    "nombre": "Rodilleras para Bebé Gateo",
-    "descripcion": "Rodilleras acolchadas para proteger a los bebés al gatear en diferentes superficies.",
-    "precio": 30000,
+    "nombre": "Rodilleras De Gateo Para Bebe Protectores Rodillas 5 Pares",
+    "descripcion": "Las rodilleras de gateo para bebé son el accesorio ideal para proteger las delicadas rodillas de tu pequeño mientras explora y aprende a gatear. Este set de 5 pares está fabricado en materiales suaves, elásticos y transpirables que brindan comodidad y seguridad en cada movimiento. Su diseño antideslizante evita resbalones, permitiendo que tu bebé se desplace con mayor confianza y protección en cualquier superficie.",
+    "precio": 18000,
     "color": [
-      "Variado"
+      "Variados"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1529,12 +1552,21 @@
       "https://outletshop.github.io/imgTienda/img/AL040-RodillerasBebegateo/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL040-RodillerasBebegateo/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL040-RodillerasBebegateo/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL040-RodillerasBebegateo/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL040-RodillerasBebegateo/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL040-RodillerasBebegateo/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL040-RodillerasBebegateo/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL040-RodillerasBebegateo/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL040-RodillerasBebegateo/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL040-RodillerasBebegateo/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL040-RodillerasBebegateo/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL040-RodillerasBebegateo/13.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/u5aBzHQNq10?si=VTewRrYmMBvVU_Eu",
     "caracteristicas": [
+      "Set de 5 pares",
       "Acolchado cómodo",
       "Transpirable",
+      "Diseño antideslizante",
       "Ajuste elástico"
     ],
     "agotado": false
@@ -1542,27 +1574,36 @@
 
   {
     "id": "AL041-FundasCartasPokemon",
-    "nombre": "Fundas para Cartas Pokémon",
+    "nombre": "100 Fundas transparentes para Cartas Pokémon",
     "descripcion": "Fundas protectoras para cartas coleccionables tipo Pokémon, transparentes y resistentes.",
-    "precio": 30000,
+    "precio": 10000,
     "color": [
-      "Variado"
+      "Transparente"
     ],
     "categorias": [
       "Todos Los Productos",
-      "Niños"
+      "Niños",
+      "Hombres"
     ],
     "imagenes": [
       "https://outletshop.github.io/imgTienda/img/AL041-FundasCartasPokemon/1.jpg",
       "https://outletshop.github.io/imgTienda/img/AL041-FundasCartasPokemon/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL041-FundasCartasPokemon/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL041-FundasCartasPokemon/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL041-FundasCartasPokemon/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL041-FundasCartasPokemon/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL041-FundasCartasPokemon/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL041-FundasCartasPokemon/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL041-FundasCartasPokemon/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL041-FundasCartasPokemon/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL041-FundasCartasPokemon/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL041-FundasCartasPokemon/11.jpg"
     ],
     "video": "https://www.youtube.com/embed/uLyx4LbOmvk?si=uuPNHP9mnf7fnLCL",
     "caracteristicas": [
+      "Incluye 100 fundas transparentes",
       "Protección UV",
       "Libre de ácidos",
+      "Diseño transparente",
       "Medida estándar"
     ],
     "agotado": false
@@ -1570,11 +1611,12 @@
 
   {
     "id": "AL042-SoporteGorra",
-    "nombre": "Soporte para Gorra",
-    "descripcion": "Soporte organizador para gorras, ideal para mantenerlas ordenadas y cuidadas.",
-    "precio": 30000,
+    "nombre": "10 Soportes Adhesivo Para Gorra. Organizador De Gorras",
+    "descripcion": "El set de 10 soportes adhesivos para gorras es la solución práctica para mantener tu colección organizada y siempre a la vista. Gracias a su adhesivo fuerte y fácil de instalar, puedes colocarlos en paredes, puertas o armarios sin necesidad de perforar. Su diseño discreto y resistente sostiene las gorras de manera segura, aportando orden y estilo a tu espacio.",
+    "precio": 20000,
     "color": [
-      "Variado"
+      "Blanco",
+      "Negro"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1586,17 +1628,25 @@
       "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL042-SoporteGorra/12.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/qpa3HTqEmjg?si=_EXKp0aZAovjE7mS",
     "caracteristicas": [
+      "Set de 10 soportes adhesivos",
       "Ahorra espacio",
       "Fácil instalación",
-      "Material resistente"
+      "Material resistente",
+      "Adhesivo fuerte y duradero"
     ],
     "agotado": false
   },
-
   {
     "id": "AL043-TimbreBienvenidaKERUI",
     "nombre": "Timbre de Bienvenida KERUI",
