@@ -1345,10 +1345,10 @@
   {
     "id": "AL035-JaboneraDeBaño",
     "nombre": "Jabonera de Baño",
-    "descripcion": "Jabonera con drenaje para mantener el jabón seco y prolongar su duración.",
+    "descripcion": "La jabonera con drenaje y tapa es la solución práctica y elegante para mantener tu jabón siempre seco, limpio y libre de residuos. Su diseño con sistema de drenaje evita la acumulación de agua, alargando la duración del jabón. Se instala fácilmente en la pared sin necesidad de perforar, gracias a su adhesivo fuerte y seguro. Con tapa protectora y estilo moderno, es ideal para baños y cocinas, combinando higiene, orden y comodidad en un solo accesorio.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Blanco"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1359,22 +1359,32 @@
       "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL035-JaboneraDeBaño/13.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/yJaHYTQdZ6Q?si=ggy0vpQm7K1Edgu9",
     "caracteristicas": [
       "Drenaje rápido",
-      "Antideslizante",
-      "Compacta"
+      "Instalación sin perforar",
+      "Tapa protectora",
+      "Material resistente y duradero",
+      "Diseño moderno y elegante"
     ],
-    "agotado": false
+    "agotado": true
   },
 
   {
     "id": "AL036-ProtectorBaño",
-    "nombre": "Protector de Baño",
-    "descripcion": "Protector para superficies del baño que evita salpicaduras y facilita la limpieza.",
-    "precio": 30000,
+    "nombre": "10 Protector Funda Desechables Para Tapa De Inodoros",
+    "descripcion": "El set de 10 protectores desechables para tapa de inodoros es la opción perfecta para mantener la higiene en baños públicos o compartidos. Fabricados en material resistente y práctico, crean una barrera protectora que evita el contacto directo con la superficie del inodoro. Su diseño desechable garantiza mayor seguridad y comodidad, siendo fáciles de transportar y usar en cualquier lugar.",
+    "precio": 10000,
     "color": [
       "Transparente"
     ],
@@ -1398,16 +1408,18 @@
     "caracteristicas": [
       "Fácil instalación",
       "Resistente al agua",
-      "Duradero"
+      "Duradero",
+      "Higiénico",
+      "Portátil"
     ],
     "agotado": false
   },
 
   {
     "id": "AL037-Brocas",
-    "nombre": "Juego de Brocas",
-    "descripcion": "Set de brocas multiuso para tareas de bricolaje y hogar.",
-    "precio": 30000,
+    "nombre": "Juego De 50 Brocas Helicoidales De Titanio Chapado En Hss",
+    "descripcion": "El juego de 50 brocas helicoidales de titanio chapado en HSS es la opción ideal para profesionales y aficionados al bricolaje. Fabricadas en acero de alta velocidad con recubrimiento de titanio, ofrecen mayor resistencia al desgaste, precisión y durabilidad. Su diseño helicoidal permite una perforación más rápida y eficiente en diferentes materiales como metal, madera y plástico. Con diferentes tamaños incluidos en un solo set, tendrás la herramienta adecuada para cada proyecto.",
+    "precio": 15000,
     "color": [
       "Dorado"
     ],
@@ -1432,9 +1444,11 @@
     "caracteristicas": [
       "Múltiples medidas",
       "Alta durabilidad",
-      "Estuche organizador"
+      "Diseño helicoidal",
+      "Set completo de 50 brocas",
+      "Recubrimiento de titanio"
     ],
-    "agotado": false
+    "agotado": true
   },
 
   {
