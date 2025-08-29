@@ -880,15 +880,15 @@
       "Remate Saldos"
     ],
     "imagenes": [
-      "https://outletshop.github.io/imgTienda/img/AL021-SeguridadEsquinaSiliconaBebe/1.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL021-SeguridadEsquinaSiliconaBebe/2.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL021-SeguridadEsquinaSiliconaBebe/3.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL021-SeguridadEsquinaSiliconaBebe/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL021-SeguridadEsquinaSiliconaBebe/5.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL021-SeguridadEsquinaSiliconaBebe/6.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL021-SeguridadEsquinaSiliconaBebe/7.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL021-SeguridadEsquinaSiliconaBebe/8.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL021-SeguridadEsquinaSiliconaBebe/9.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL022-MuñecoRoblox/1.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL022-MuñecoRoblox/2.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL022-MuñecoRoblox/3.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL022-MuñecoRoblox/4.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL022-MuñecoRoblox/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL022-MuñecoRoblox/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL022-MuñecoRoblox/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL022-MuñecoRoblox/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL022-MuñecoRoblox/9.jpg"
     ],
     "video": "https://www.youtube.com/embed/u5aBzHQNq10?si=5QqSwNk0Qpyc_Fvk",
     "caracteristicas": [
@@ -1944,11 +1944,12 @@
 
   {
     "id": "AL051-FundaparaAppleAirtagsLlavero",
-    "nombre": "Funda para Apple AirTags con Llavero",
-    "descripcion": "Funda protectora para Apple AirTags con llavero integrado para fácil transporte.",
-    "precio": 30000,
+    "nombre": "Funda Protectora Estuche Llavero Silicona Para Apple Airtag",
+    "descripcion": "La funda protectora con estuche y llavero de silicona para Apple Airtag es el accesorio ideal para mantener tu dispositivo seguro y siempre a la mano. Fabricada en silicona suave y resistente, protege contra golpes, rayones y polvo, alargando la vida útil del Airtag. Su práctico llavero permite sujetarlo fácilmente a llaves, mochilas, maletas o collares de mascotas, brindándote comodidad y tranquilidad al mantener localizados tus objetos más importantes.",
+    "precio": 15000,
     "color": [
-      "Variado"
+      "Blanco",
+      "Negro"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1959,26 +1960,36 @@
       "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/13.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL051-FundaparaAppleAirtagsLlavero/14.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/u5aBzHQNq10?si=GxoWGxPxAzR8kEgI",
     "caracteristicas": [
-      "Protección confiable",
-      "Llavero metálico",
-      "Diseño minimalista"
+      "Compatibilidad perfecta",
+      "Material de silicona flexible y duradero",
+      "Incluye llavero práctico",
+      "Diseño ligero y elegante",
+      "Versatilidad de uso"
     ],
     "agotado": false
   },
 
   {
     "id": "AL052-BoquillaCachimbaCadenaInoxidable",
-    "nombre": "Boquilla de Cachimba con Cadena Inoxidable",
-    "descripcion": "Boquilla para cachimba con cadena de acero inoxidable, higiénica y reutilizable.",
+    "nombre": "Boquilla Para Narguila En Resina Con Correa, Pipa De Agua",
+    "descripcion": "La boquilla para narguila en resina con correa es el accesorio ideal para disfrutar de tus sesiones de pipa de agua con estilo, higiene y comodidad. Fabricada en resina resistente y fácil de limpiar, garantiza un uso duradero y seguro. Su práctica correa permite llevarla siempre contigo, evitando pérdidas y asegurando un uso personal higiénico cuando compartes la narguila con amigos.",
     "precio": 30000,
     "color": [
       "Verde",
-      "Negro",
-      "Azul"
+      "Negro"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2003,11 +2014,13 @@
       "https://outletshop.github.io/imgTienda/img/AL052-BoquillaCachimbaCadenaInoxidable/15.jpg",
       "https://outletshop.github.io/imgTienda/img/AL052-BoquillaCachimbaCadenaInoxidable/16.jpg"
     ],
-    "video": "https://www.youtube.com/embed/CcYP1Sr4AM8?si=K59wZB8DA3T86z5d",
+    "video": "https://www.youtube.com/embed/fV8k8AtfGoE?si=m7GNO-VpAr3PIkjF",
     "caracteristicas": [
-      "Acero inoxidable",
-      "Reutilizable",
-      "Fácil de limpiar"
+      "Fabricada en resina duradera",
+      "Incluye correa práctica",
+      "Accesorio higiénico y personal",
+      "Diseño elegante y ligero",
+      "Compatibilidad universal"
     ],
     "agotado": false
   },
