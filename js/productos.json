@@ -2267,11 +2267,16 @@
 
   {
     "id": "AL059-AirtagsCorreaMuñecaNiños",
-    "nombre": "Correa de Muñeca para AirTags Niños",
-    "descripcion": "Correa de muñeca para AirTags, ideal para niños y seguridad en salidas.",
+    "nombre": "Correa Manilla en la muñeca Para Airtag Protector Silicona Niños, Adultos",
+    "descripcion": "La correa manilla para Airtag es el accesorio perfecto para mantener localizado a niños y adultos de forma cómoda y segura. Fabricada en silicona suave y resistente, ofrece un ajuste ergonómico en la muñeca, protegiendo el dispositivo y evitando caídas o pérdidas. Ideal para viajes, paseos o actividades al aire libre, combina practicidad, seguridad y un diseño moderno.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Blanco",
+      "Negro",
+      "Azul",
+      "Lila",
+      "Azul Oscuro",
+      "Verde claro"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2300,48 +2305,75 @@
     ],
     "video": "https://www.youtube.com/embed/jBjxST1dmn0?si=aVA8MgBInHLZI_Ym",
     "caracteristicas": [
-      "Ajuste cómodo",
-      "Material suave",
-      "Protege el AirTag"
+      "Compatible con Apple Airtag",
+      "Material de silicona suave y duradero",
+      "Protección contra golpes y caídas",
+      "Ajustable para niños y adultos",
+      "Ligera y moderna"
     ],
     "agotado": false
   },
 
   {
     "id": "AL061-FundaAppleAirPods",
-    "nombre": "Funda para Apple AirPods",
-    "descripcion": "Funda protectora para Apple AirPods con diseño resistente y clip de sujeción.",
-    "precio": 30000,
+    "nombre": "Estuche Diseño Animado Compatible AirPods 1y2",
+    "descripcion": "El estuche con diseño animado para AirPods 1 y 2 combina estilo, protección y diversión en un solo accesorio. Fabricado en silicona resistente, protege tus audífonos contra golpes, rayones y polvo, mientras su diseño animado le da un toque único y original. Compacto y ligero, es ideal para llevar tus AirPods de manera segura y con personalidad a donde vayas.",
+    "precio": 3015000000,
     "color": [
       "Variado"
+    ],
+    "diseño": [
+      "Darth Vader",
+      "Mickey Mouse",
+      "Mini Mouse",
+      "Spider Man",
+      "Batman",
+      "Venom",
+
     ],
     "categorias": [
       "Todos Los Productos",
       "Gadgets y Tecnología"
     ],
     "imagenes": [
-      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/1.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/2.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/3.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/15.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/13.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/17.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/27.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/28.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/29.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/30.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/31.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/32.jpg", 
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/33.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/34.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/35.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/36.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/37.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL061-FundaAppleAirPods/38.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/u5aBzHQNq10?si=GxoWGxPxAzR8kEgI",
     "caracteristicas": [
-      "Antigolpes",
-      "Ligera",
-      "Fácil acceso al puerto"
+      "Compatible con AirPods 1 y 2",
+      "Material de silicona resistente",
+      "Diseño animado divertido y original",
+      "Compacto y ligero",
+      "Apertura precisa"
     ],
     "agotado": false
   },
 
   {
     "id": "AL062-MáquinaLiarMetalica110MM",
-    "nombre": "Máquina Liar Metálica 110MM",
-    "descripcion": "Máquina metálica para liar de 110MM, resistente y de uso prolongado.",
+    "nombre": "Maquina Liar Enrolar Metalica#9 Armador Cigarrillos Portatil 110mm",
+    "descripcion": "La máquina de liar metálica #9 es un armador portátil y resistente, ideal para obtener cigarrillos perfectamente enrollados de manera rápida y sencilla. Fabricada en metal de alta calidad, garantiza durabilidad y un uso prolongado, siendo una herramienta práctica tanto para principiantes como para expertos. Su diseño compacto permite llevarla fácilmente a cualquier lugar, disfrutando de un enrollado uniforme en todo momento.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Negro",
+      "Plateado"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2352,24 +2384,32 @@
       "https://outletshop.github.io/imgTienda/img/AL062-MáquinaLiarMetalica110MM/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL062-MáquinaLiarMetalica110MM/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL062-MáquinaLiarMetalica110MM/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL062-MáquinaLiarMetalica110MM/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL062-MáquinaLiarMetalica110MM/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL062-MáquinaLiarMetalica110MM/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL062-MáquinaLiarMetalica110MM/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL062-MáquinaLiarMetalica110MM/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL062-MáquinaLiarMetalica110MM/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL062-MáquinaLiarMetalica110MM/10.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/aQOOwiwhXEQ?si=Ou4hzCS6KcYcL6gJ",
     "caracteristicas": [
-      "Estructura metálica",
-      "Larga vida útil",
-      "Uso fácil"
+      "Fabricada en metal resistente",
+      "Enrollado uniforme y consistente",
+      "Diseño portátil y ligero",
+      "Ideal para principiantes y expertos",
+      "Uso prolongado y confiable"
     ],
     "agotado": false
   },
 
   {
     "id": "AL063-DecoracionCascoMotoCuernosAlas",
-    "nombre": "Decoración de Casco Moto Cuernos y Alas",
-    "descripcion": "Accesorio decorativo para casco de moto con cuernos y alas, fácil de colocar y remover.",
+    "nombre": "Decoracion Cuernos Y Alas Decorativos Para Casco De Moto - Bicicleta",
+    "descripcion": "Los cuernos y alas decorativas para casco son el accesorio perfecto para darle un estilo único y divertido a tu casco de moto o bicicleta. Fabricados en silicona resistente, se adhieren fácilmente sin dañar la superficie y soportan el viento y la lluvia. Ideales para destacar en la carretera o en la ciudad, añaden personalidad y originalidad a tu equipo de protección.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Negro",
+      "Rojo"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2380,24 +2420,35 @@
       "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/13.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL063-DecoracionCascoMotoCuernosAlas/14.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/u5aBzHQNq10?si=GxoWGxPxAzR8kEgI",
     "caracteristicas": [
-      "Autoadhesivo",
-      "Resistente al clima",
-      "Diseño llamativo"
+      "Diseño llamativo y original",
+      "Material de silicona resistente",
+      "Fácil instalación",
+      "Compatibles con cascos de moto y bicicleta",
+      "Ligero y seguro"
     ],
     "agotado": false
   },
 
   {
     "id": "AL064-Combo5CajitasRollingPapers7",
-    "nombre": "Combo 5 Cajitas Rolling Papers 7",
-    "descripcion": "Paquete de 5 cajitas de papeles para liar, tamaño 7, ideales para uso frecuente.",
-    "precio": 30000,
+    "nombre": "Set X 5 Cajitas De Rolling Papers Cueros Ocb Organico #7",
+    "descripcion": "El set de 5 cajitas de papel de liar OCB Orgánico #7 es perfecto para quienes buscan naturalidad, calidad y practicidad al momento de mentir. Cada papel está elaborado con fibras orgánicas sin aditivos ni blanqueadores, ofreciendo una combustión lenta y uniforme. Las cajitas con acabado en cuero no solo protegen los papeles, sino que también aportan un toque elegante y resistente, ideales para llevar siempre contigo.",
+    "precio": 12000,
     "color": [
-      "Variado"
+      "Blanco"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2413,9 +2464,11 @@
     ],
     "video": "https://www.youtube.com/embed/5ZnAuLkFhm8?si=d-ATQpFSZ1gdDzbS",
     "caracteristicas": [
-      "Papel de calidad",
-      "Fácil de usar",
-      "Práctico y portátil"
+      "Incluye 5 cajitas OCB Orgánico #7",
+      "Papeles 100% orgánicos",
+      "Combustión lenta y uniforme",
+      "Cajitas de cuero resistentes",
+      "Compactas y portátiles"
     ],
     "agotado": false
   },
