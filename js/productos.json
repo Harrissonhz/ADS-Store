@@ -2444,11 +2444,15 @@
 
   {
     "id": "AL064-Combo5CajitasRollingPapers7",
-    "nombre": "Set X 5 Cajitas De Rolling Papers Cueros Ocb Organico #7",
+    "nombre": "Set X 5 Cajitas De Rolling Papers Cueros Ocb Organico #7 y #5",
     "descripcion": "El set de 5 cajitas de papel de liar OCB Orgánico #7 es perfecto para quienes buscan naturalidad, calidad y practicidad al momento de mentir. Cada papel está elaborado con fibras orgánicas sin aditivos ni blanqueadores, ofreciendo una combustión lenta y uniforme. Las cajitas con acabado en cuero no solo protegen los papeles, sino que también aportan un toque elegante y resistente, ideales para llevar siempre contigo.",
     "precio": 12000,
     "color": [
       "Blanco"
+    ],
+    "diseño": [
+      "OCB Orgánico #7",
+      "OCB Orgánico #5"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2476,10 +2480,10 @@
   {
     "id": "AL066-MochilaFashionBolsoPechoCruzado",
     "nombre": "Mochila Fashion Bolso de Pecho Cruzado",
-    "descripcion": "Mochila/bandolera de pecho cruzado, ligera y práctica para uso diario o deporte.",
-    "precio": 30000,
+    "descripcion": "La mochila fashion tipo bolso cruzado para hombre combina estilo, comodidad y practicidad en un diseño moderno y versátil. Ideal para el uso diario, cuenta con compartimentos organizados para llevar tus pertenencias de forma segura y accesible. Su diseño ergonómico permite llevarla cruzada al pecho oa la espalda, convirtiéndose en el accesorio perfecto para trabajo, viajes o actividades al aire libre.",
+    "precio": 22000,
     "color": [
-      "Variado"
+      "Gris"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2492,13 +2496,22 @@
       "https://outletshop.github.io/imgTienda/img/AL066-MochilaFashionBolsoPechoCruzado/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL066-MochilaFashionBolsoPechoCruzado/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL066-MochilaFashionBolsoPechoCruzado/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL066-MochilaFashionBolsoPechoCruzado/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL066-MochilaFashionBolsoPechoCruzado/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL066-MochilaFashionBolsoPechoCruzado/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL066-MochilaFashionBolsoPechoCruzado/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL066-MochilaFashionBolsoPechoCruzado/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL066-MochilaFashionBolsoPechoCruzado/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL066-MochilaFashionBolsoPechoCruzado/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL066-MochilaFashionBolsoPechoCruzado/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL066-MochilaFashionBolsoPechoCruzado/12.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/u5aBzHQNq10?si=GxoWGxPxAzR8kEgI",
     "caracteristicas": [
-      "Ligera",
-      "Correa ajustable",
-      "Compartimentos útiles"
+      "Diseño moderno y elegante",
+      "Bolso cruzado versátil",
+      "Compartimentos organizados",
+      "Material resistente y duradero",
+      "Cómodo y ergonómico"
     ],
     "agotado": false
   },
