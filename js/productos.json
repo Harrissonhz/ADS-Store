@@ -1853,11 +1853,13 @@
 
   {
     "id": "AL048-Airtagfundaperro-gatoCollar",
-    "nombre": "Funda AirTag para Collar de Perro/Gato",
-    "descripcion": "Soporte para AirTag en collar de mascotas para rastreo y seguridad.",
-    "precio": 30000,
+    "nombre": "Funda Airtag Perro Gato Mascota Collar Original Impermeable",
+    "descripcion": "La funda Airtag para perro o gato es el accesorio perfecto para mantener seguro el rastreador de tu mascota. Fabricada en material resistente e impermeable, protege el dispositivo contra golpes, polvo y agua, asegurando su buen funcionamiento en todo momento. Su diseño original permite adaptarla fácilmente al collar de tu mascota, brindándote tranquilidad al saber que siempre podrás localizarla de forma rápida y sencilla.",
+    "precio": 15000,
     "color": [
-      "Variado"
+      "Negro",
+      "Rosa",
+      "Lila"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -1869,13 +1871,29 @@
       "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/13.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/14.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/15.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/16.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/17.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/18.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL048-Airtagfundaperro-gatoCollar/19.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/UCw2Ja57MZ4?si=0W44ia8kVPQkOoLT",
     "caracteristicas": [
-      "Fijación segura",
-      "Resistente al uso",
-      "Ligero"
+      "Especial para mascotas",
+      "Impermeable y resistente",
+      "Fácil de colocar en el collar",
+      "Diseño original y colores variados",
+      "Ligera y segura"
     ],
     "agotado": false
   },
@@ -1883,7 +1901,7 @@
   {
     "id": "AL049-MiniUSB16-32GB",
     "nombre": "Memoria Mini USB 16-32GB",
-    "descripcion": "Memoria USB mini de 16 a 32GB, compacta y resistente para transporte de datos.",
+    "descripcion": "La memoria mini USB de 16-32GB es una solución práctica y portátil para almacenar y transportar tus archivos de manera segura. Su diseño compacto y ligero permite llevarla fácilmente en el bolsillo, llavero o mochila, mientras que su conexión USB garantiza compatibilidad con la mayoría de computadoras, portátiles y dispositivos. Ideal para guardar documentos, fotos, música y vídeos con rapidez y comodidad.",
     "precio": 30000,
     "color": [
       "Negro",
@@ -1918,7 +1936,8 @@
     "caracteristicas": [
       "Tamaño compacto",
       "Compatibilidad amplia",
-      "Carcasa resistente"
+      "Diseño mini y portátil",
+      "Capacidades disponibles de 16GB y 32GB"
     ],
     "agotado": false
   },
