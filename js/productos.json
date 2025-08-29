@@ -2226,11 +2226,11 @@
 
   {
     "id": "AL058-MáquinaLiarPORROS110mm",
-    "nombre": "Máquina para Liar Porros 110mm",
-    "descripcion": "Máquina para liar de 110mm, práctica y resistente para uso prolongado.",
-    "precio": 30000,
+    "nombre": "Maquina De Liar Enrolar Blunt King #12 Armador Cigarrillos 110mm",
+    "descripcion": "La máquina de liar Blunt King #12 de 110mm es la herramienta ideal para obtener cigarrillos o blunts grandes y perfectamente enrollados con rapidez y sin complicaciones. Su diseño práctico y resistente asegura un uso prolongado, mientras que su tamaño de 110mm la hace perfecta para quienes disfrutan de cigarros más largos. Compacta, portátil y fácil de manejar, es el complemento imprescindible para un enrollado uniforme en cualquier lugar.",
+    "precio": 15000,
     "color": [
-      "Variado"
+      "Negro"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2254,11 +2254,13 @@
       "https://outletshop.github.io/imgTienda/img/AL058-MáquinaLiarPORROS110mm/14.jpg",
       "https://outletshop.github.io/imgTienda/img/AL058-MáquinaLiarPORROS110mm/15.jpg"
     ],
-    "video": "https://www.youtube.com/embed/aQOOwiwhXEQ?si=XPuwSCBvj2cq6aJH",
+    "video": "https://www.youtube.com/embed/2p0IBXoswPM?si=MszLY_pDfJu9tABQ",
     "caracteristicas": [
-      "Uso sencillo",
-      "Material resistente",
-      "Formato 110mm"
+      "Tamaño 110 mm",
+      "Enrollado uniforme y consistente",
+      "Material resistente y duradero",
+      "Compacta y portátil",
+      "Fácil de usar"
     ],
     "agotado": false
   },
