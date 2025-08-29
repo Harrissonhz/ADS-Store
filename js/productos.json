@@ -2027,11 +2027,11 @@
 
   {
     "id": "AL053-TarroAluminioHierba",
-    "nombre": "Tarro de Aluminio para Hierba",
-    "descripcion": "Tarro hermético de aluminio para almacenar hierbas y especias de forma segura.",
+    "nombre": "Recipiente Almacenamiento De Hierbas De Aluminio, Honeypuff",
+    "descripcion": "El recipiente de almacenamiento de hierbas Honeypuff, fabricado en aluminio de alta calidad, es la solución ideal para mantener tus hierbas frescas y seguras. Su diseño resistente y hermético protege contra la humedad, olores y la exposición al aire, asegurando una mayor conservación. Compacto y elegante, es perfecto para llevarlo contigo a cualquier lugar y almacenar de manera discreta y práctica.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Plateado"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2043,24 +2043,33 @@
       "https://outletshop.github.io/imgTienda/img/AL053-TarroAluminioHierba/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL053-TarroAluminioHierba/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL053-TarroAluminioHierba/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL053-TarroAluminioHierba/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL053-TarroAluminioHierba/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL053-TarroAluminioHierba/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL053-TarroAluminioHierba/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL053-TarroAluminioHierba/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL053-TarroAluminioHierba/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL053-TarroAluminioHierba/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL053-TarroAluminioHierba/11.jpg"
     ],
     "video": "https://www.youtube.com/embed/pendiente",
     "caracteristicas": [
-      "Cierre hermético",
-      "Portátil",
-      "Construcción resistente"
+      "Material de aluminio duradero",
+      "Diseño hermético",
+      "Evita la fuga de olores",
+      "Compacto y portátil",
+      "Estilo moderno y elegante"
     ],
     "agotado": false
   },
 
   {
     "id": "AL054-BoquillaNarguilaAceroInoxidableCorrea",
-    "nombre": "Boquilla Narguila Acero Inoxidable con Correa",
-    "descripcion": "Boquilla de narguila en acero inoxidable con correa para uso personal, higiénica y práctica.",
+    "nombre": "Boquilla Acero Inoxidable Para Narguila Con Correa De Colgar",
+    "descripcion": "La boquilla de acero inoxidable para narguila con correa de colgar es un accesorio práctico, higiénico y duradero, ideal para acompañar tus sesiones de shisha. Fabricada en acero inoxidable de alta calidad, garantiza resistencia y fácil limpieza, mientras que su correa permite llevarla siempre contigo de forma cómoda y segura. Perfecta para un uso personal higiénico al compartir la narguila con amigos.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Negro",
+      "Plateado"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2084,20 +2093,22 @@
     ],
     "video": "https://www.youtube.com/embed/xeSxpejx0Ns?si=MqVNM2FBvePtJ6jZ",
     "caracteristicas": [
-      "Acero inoxidable",
-      "Correa incluida",
-      "Reutilizable"
+      "Fabricada en acero inoxidable",
+      "Incluye correa de colgar",
+      "Uso higiénico y personal",
+      "Diseño elegante y ligero",
+      "Compatibilidad universal"
     ],
     "agotado": false
   },
 
   {
     "id": "AL055-GafasdeSolTuboAlmacenamientoOculto",
-    "nombre": "Gafas de Sol con Tubo de Almacenamiento Oculto",
-    "descripcion": "Gafas de sol con compartimento oculto tipo tubo para almacenamiento discreto.",
-    "precio": 30000,
+    "nombre": "Gafas Honeypuff Compartimiento Secreto Para Porro O Hierba",
+    "descripcion": "Las gafas Honeypuff con compartimiento secreto son el accesorio perfecto para combinar estilo y discreción. Diseñadas con un espacio oculto en las patillas, permiten almacenar de forma segura y discreta un porro o pequeñas cantidades de hierba. Fabricadas con materiales resistentes y un diseño moderno, son ideales para quienes buscan practicidad, seguridad y un toque único en su día a día.",
+    "precio": 80000,
     "color": [
-      "Variado"
+      "Negro"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2120,22 +2131,27 @@
       "https://outletshop.github.io/imgTienda/img/AL055-GafasdeSolTuboAlmacenamientoOculto/12.jpg",
       "https://outletshop.github.io/imgTienda/img/AL055-GafasdeSolTuboAlmacenamientoOculto/13.jpg"
     ],
-    "video": "https://www.youtube.com/embed/CcYP1Sr4AM8?si=K59wZB8DA3T86z5d",
+    "video": "https://www.youtube.com/embed/CcYP1Sr4AM8?si=hzJw9jTtsO6lHmg4",
     "caracteristicas": [
-      "Diseño discreto",
-      "Protección UV",
-      "Material resistente"
+      "Diseño innovador con compartimiento secreto",
+      "Fabricadas en materiales resistentes",
+      "Estilo moderno y versátil",
+      "Protección UV en los lentes",
+      "Accesorio práctico y único"
     ],
-    "agotado": false
+    "agotado": true
   },
 
   {
     "id": "AL056-BandejaBambuLiar",
-    "nombre": "Bandeja de Bambú para Liar",
-    "descripcion": "Bandeja de bambú para liar, ideal para organizar accesorios y mantener limpieza.",
+    "nombre": "Mini Bandeja en bambu Enrollar Cigarros Liar Porros",
+    "descripcion": "La mini bandeja en bambú es el accesorio perfecto para quienes disfrutan de liar sus propios cigarros o porros con estilo y practicidad. Fabricada en bambú natural, ofrece una superficie resistente, ligera y ecológica que facilita el proceso de enrollado. Su tamaño compacto la hace fácil de transportar y guardar, ideal para usar en casa o llevar consigo a cualquier lugar.",
     "precio": 30000,
     "color": [
       "Madera"
+    ],
+    "diseño": [
+      "Honeypuff"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2159,20 +2175,22 @@
       "https://outletshop.github.io/imgTienda/img/AL056-BandejaBambuLiar/13.jpg",
       "https://outletshop.github.io/imgTienda/img/AL056-BandejaBambuLiar/14.jpg"
     ],
-    "video": "https://www.youtube.com/embed/CcYP1Sr4AM8?si=K59wZB8DA3T86z5d",
+    "video": "https://www.youtube.com/embed/ohQS61Lvwsk?si=hatxMUw5lOczoLnE",
     "caracteristicas": [
-      "Material ecológico",
-      "Duradera",
-      "Fácil de limpiar"
+      "Material de bambú natural",
+      "Superficie lisa y práctica",
+      "Diseño compacto y portátil",
+      "Ligera y funcional",
+      "Estilo rústico y elegante"
     ],
     "agotado": false
   },
 
   {
     "id": "AL057-LamparaMinecraftAntorcha",
-    "nombre": "Lámpara Minecraft Antorcha",
-    "descripcion": "Lámpara decorativa estilo antorcha de Minecraft, ideal para fans y decoración de habitación.",
-    "precio": 30000,
+    "nombre": "Lampara Minecraft Led De 4 Colores, Inalámbrica, Recargable",
+    "descripcion": "La lámpara Minecraft LED es el accesorio ideal para los fans del famoso videojuego, combinando decoración y funcionalidad en un solo producto. Ofrece 4 colores de iluminación que puedes cambiar según tu ambiente, y gracias a su diseño inalámbrico y recargable, puedes colocarla en cualquier espacio sin preocuparte por cables. Perfecta para habitaciones, escritorios o como regalo original para gamers.",
+    "precio": 60000,
     "color": [
       "Amarillo",
       "Variados"
@@ -2193,13 +2211,15 @@
       "https://outletshop.github.io/imgTienda/img/AL057-LamparaMinecraftAntorcha/8.jpg",
       "https://outletshop.github.io/imgTienda/img/AL057-LamparaMinecraftAntorcha/9.jpg",
       "https://outletshop.github.io/imgTienda/img/AL057-LamparaMinecraftAntorcha/10.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL057-Lampara MinecraftAntorcha/11.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL057-LamparaMinecraftAntorcha/11.jpg"
     ],
-    "video": "https://www.youtube.com/embed/p-h4z56bNm0?si=Bv1BDcM9GPe7ouUI",
+    "video": "https://www.youtube.com/embed/p-h4z56bNm0?si=WBE5qtAFh-ebqYdT",
     "caracteristicas": [
-      "Diseño temático",
-      "Luz suave",
-      "Fácil colocación"
+      "Iluminación LED con 4 colores",
+      "Diseño inspirado en Minecraft",
+      "Recargable por USB",
+      "Inalámbrica y portátil",
+      "Perfecta como decoración o regalo"
     ],
     "agotado": false
   },
