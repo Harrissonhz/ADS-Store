@@ -2586,7 +2586,7 @@
       "Evita enredos y daños en los cables",
       "Compactos y discretos"
     ],
-    "agotado": false
+    "agotado": true
   },
 
   {
@@ -2623,7 +2623,7 @@
       "Funcionamiento sencillo con un botón",
       "Colores blanco y azul"
     ],
-    "agotado": false
+    "agotado": true
   },
 
   {
@@ -2659,7 +2659,7 @@
       "Fabricado en materiales resistentes",
       "Fácil de instalar y usar"
     ],
-    "agotado": false
+    "agotado": true
   },
 
   {
@@ -2683,7 +2683,7 @@
       "https://outletshop.github.io/imgTienda/img/AL071-CucharaArrozCubierta/7.jpg",  
       "https://outletshop.github.io/imgTienda/img/AL071-CucharaArrozCubierta/22.jpg"
     ],
-    "video": "https://www.youtube.com/embed/u5aBzHQNq10?si=ohTqY_sjSxYx6wnz",
+    "video": "https://www.youtube.com/embed/Kj_qxi4jmxg?si=vDnfAFoDo5kZAIdJ",
     "caracteristicas": [
       "Diseño antiadherente",
       "Incluye cubierta protectora",
@@ -2691,16 +2691,16 @@
       "Fácil de limpiar",
       "Compacta y práctica"
     ],
-    "agotado": false
+    "agotado": true
   },
 
   {
     "id": "AL072-SoporteSiliconaCucharras",
     "nombre": "Soporte de Silicona para Cucharas",
-    "descripcion": "Soporte de silicona para cucharas y utensilios de cocina que evita derrames y manchas.",
-    "precio": 30000,
+    "descripcion": "El soporte de silicona para cucharas es el accesorio ideal para mantener tu cocina limpia y organizada mientras cocinas. Fabricado en silicona resistente al calor, ofrece un espacio práctico para colocar cucharas, espátulas u otros utensilios sin ensuciar la mesa o la estufa. Su diseño compacto, antideslizante y fácil de limpiar lo convierte en un aliado indispensable en la preparación de tus comidas.",
+    "precio": 15000,
     "color": [
-      "Variado"
+      "Verde"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2711,24 +2711,33 @@
       "https://outletshop.github.io/imgTienda/img/AL072-SoporteSiliconaCucharras/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL072-SoporteSiliconaCucharras/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL072-SoporteSiliconaCucharras/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL072-SoporteSiliconaCucharras/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL072-SoporteSiliconaCucharras/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL072-SoporteSiliconaCucharras/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL072-SoporteSiliconaCucharras/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL072-SoporteSiliconaCucharras/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL072-SoporteSiliconaCucharras/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL072-SoporteSiliconaCucharras/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL072-SoporteSiliconaCucharras/11.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/FFAz-mIU0rM?si=DGgRNUz7oiOQEjHb",
     "caracteristicas": [
-      "Antideslizante",
-      "Resistente al calor",
-      "Fácil de lavar"
+      "Fabricado en silicona resistente al calor",
+      "Diseño antideslizante",
+      "Fácil de limpiar y reutilizar",
+      "Compacto y práctico",
+      "Versátil"
     ],
-    "agotado": false
+    "agotado": true
   },
 
   {
     "id": "AL074-8GanchosAdhesivosGorras",
-    "nombre": "8 Ganchos Adhesivos para Gorras",
-    "descripcion": "Set de 8 ganchos adhesivos para colgar gorras u otros accesorios en la pared.",
-    "precio": 30000,
+    "nombre": "8 Ganchos Adhesivos Para Gorras De Béisbol",
+    "descripcion": "El set de 8 ganchos adhesivos para gorras de béisbol es la solución perfecta para mantener tu colección organizada y siempre a la vista. Con adhesivo fuerte y diseño práctico, puedes fijarlos fácilmente en paredes, puertas o armarios sin necesidad de perforar. Mantén tus gorras ordenadas, accesibles y protegidas con un estilo moderno y funcional.",
+    "precio": 40000,
     "color": [
-      "Variado"
+      "Negro", 
+      "Blanco"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2747,39 +2756,52 @@
       "https://outletshop.github.io/imgTienda/img/AL074-8GanchosAdhesivosGorras/8.jpg",
       "https://outletshop.github.io/imgTienda/img/AL074-8GanchosAdhesivosGorras/10.jpg"
     ],
-    "video": "https://www.youtube.com/embed/qpa3HTqEmjg?si=XMDv342Z2Z6MtKwZ",
+    "video": "https://www.youtube.com/embed/qpa3HTqEmjg?si=r7yFqQMDXhmotP4q",
     "caracteristicas": [
-      "Adhesivo fuerte",
-      "Ahorra espacio",
-      "Versátiles"
+      "Incluye 8 ganchos adhesivos",
+      "Instalación sin perforaciones",
+      "Diseño práctico y minimalista",
+      "Protege y organiza tus gorras",
+      "Versátil"
     ],
     "agotado": false
   },
 
   {
     "id": "AL075-BolsaAlmacenamientoZapatos",
-    "nombre": "Bolsa de Almacenamiento para Zapatos",
-    "descripcion": "Bolsa para guardar y transportar zapatos, protege contra polvo y suciedad.",
-    "precio": 30000,
+    "nombre": "Set X10 Bolsa Almacenamiento Zapatos Organizador Bals43",
+    "descripcion": "El set de 10 bolsas de almacenamiento para zapatos BALS43 es la forma más práctica y ordenada de guardar tu calzado en casa o llevarlo de viaje. Fabricadas en material resistente y transpirable, protegen tus zapatos del polvo, la suciedad y los roces, manteniéndolos siempre en perfecto estado. Su diseño con cordón ajustable facilita el cierre y transporte, convirtiéndolas en un accesorio imprescindible para el día a día.",
+    "precio": 15000,
     "color": [
-      "Variado"
+      "Blanco"
     ],
     "categorias": [
       "Todos Los Productos",
-      "Hogar"
+      "Hogar",
+      "Hombres",
+      "Mujeres"
     ],
     "imagenes": [
+      "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/4.jpg",
       "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/1.jpg",
       "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/3.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/13.jpg"
+      
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/u5aBzHQNq10?si=ohTqY_sjSxYx6wnz",
     "caracteristicas": [
-      "Material resistente",
-      "Con cordón",
-      "Reutilizable"
+      "Incluye 10 bolsas organizadoras",
+      "Material resistente y transpirable",
+      "Diseño con cordón ajustable",
+      "Prácticas y reutilizables",
+      "Fáciles de limpiar"
     ],
     "agotado": false
   },
