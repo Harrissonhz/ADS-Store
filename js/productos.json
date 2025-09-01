@@ -2806,11 +2806,11 @@
 
   {
     "id": "AL076-100UnidadesFiltroCafePapel",
-    "nombre": "100 Unidades Filtro Café de Papel",
-    "descripcion": "Paquete de 100 filtros de papel para café, tamaño estándar y de alta calidad.",
+    "nombre": "Filtros V60 02 X100uni Brewing Cafe Especial Papel Natural",
+    "descripcion": "El paquete de 100 filtros V60 02 de papel natural es perfecto para preparar café de especialidad con el método de goteo. Diseñados para resaltar los sabores y aromas, garantizan una extracción limpia y uniforme sin alterar el sabor del café. Su material natural y sin blanqueadores químicos aseguran una experiencia más pura y auténtica en cada taza.",
     "precio": 30000,
     "color": [
-      "Variado"
+      "Natural"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2821,23 +2821,29 @@
       "https://outletshop.github.io/imgTienda/img/AL076-100UnidadesFiltroCafePapel/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL076-100UnidadesFiltroCafePapel/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL076-100UnidadesFiltroCafePapel/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL076-100UnidadesFiltroCafePapel/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL076-100UnidadesFiltroCafePapel/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL076-100UnidadesFiltroCafePapel/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL076-100UnidadesFiltroCafePapel/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL076-100UnidadesFiltroCafePapel/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL076-100UnidadesFiltroCafePapel/10.jpg"
     ],
-    "video": "https://www.youtube.com/embed/krcN6Mvesgg?si=mlfM5MJdOiSVvJAw",
+    "video": "https://www.youtube.com/embed/krcN6Mvesgg?si=L-gnh7P43oSXtxzM",
     "caracteristicas": [
-      "Filtrado uniforme",
-      "Desechables",
-      "Compatibles estándar"
+      "Incluye 100 filtros de papel natural",
+      "Especial para café de goteo",
+      "Material natural sin blanqueadores",
+      "Compatibles con goteros V60 02",
+      "Ideales para café de especialidad"
     ],
-    "agotado": false
+    "agotado": true
   },
   {
     "id": "AL077-FiltroCafePlegableAceroInoxidable",
-    "nombre": "Filtro de Café Plegable Acero Inoxidable",
-    "descripcion": "Filtro de café plegable en acero inoxidable, reutilizable y fácil de limpiar.",
-    "precio": 30000,
+    "nombre": "Filtro Café Portátil Plegable Acero Inoxidable Reutilizable",
+    "descripcion": "El filtro de café portátil plegable de acero inoxidable es la opción práctica, ecológica y duradera para disfrutar de un café fresco en cualquier lugar. Su diseño plegable lo hace fácil de transportar, mientras que el acero inoxidable de alta calidad asegura una extracción limpia y sin residuos de papel. Reutilizable y resistente, es ideal para el hogar, la oficina, viajes o actividades al aire libre.",
+    "precio": 20000,
     "color": [
-      "Variado"
+      "Negro"
     ],
     "categorias": [
       "Todos Los Productos",
@@ -2848,98 +2854,141 @@
       "https://outletshop.github.io/imgTienda/img/AL077-FiltroCafePlegableAceroInoxidable/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL077-FiltroCafePlegableAceroInoxidable/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL077-FiltroCafePlegableAceroInoxidable/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL077-FiltroCaféPlegableAceroInoxidable/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL077-FiltroCaféPlegableAceroInoxidable/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL077-FiltroCaféPlegableAceroInoxidable/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL077-FiltroCaféPlegableAceroInoxidable/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL077-FiltroCaféPlegableAceroInoxidable/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL077-FiltroCaféPlegableAceroInoxidable/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL077-FiltroCaféPlegableAceroInoxidable/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL077-FiltroCaféPlegableAceroInoxidable/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL077-FiltroCaféPlegableAceroInoxidable/12.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/i-Rhsj3o01c?si=0EGNJEzDZ9AYkNZS",
     "caracteristicas": [
-      "Reutilizable",
-      "Acero inoxidable",
-      "Plegable"
+      "Fabricado en acero inoxidable",
+      "Diseño plegable y portátil",
+      "Reutilizable y ecológico",
+      "Compatible con diferentes tazas y cafeteras de goteo",
+      "Fácil de limpiar y mantener"
     ],
     "agotado": false
   },
 
   {
     "id": "AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable",
-    "nombre": "Soporte Filtro Café Reutilizable Capa Acero Inoxidable",
-    "descripcion": "Soporte para filtro de café de acero inoxidable, reutilizable y de fácil uso.",
-    "precio": 30000,
+    "nombre": "Filtro De Café De Acero Inoxidable Para Verter Grano Fino",
+    "descripcion": "El filtro de café de acero inoxidable para verter grano fino está diseñado para los amantes del café que buscan una extracción limpia y llena de sabor. Su malla ultrafina retiene los posos sin necesidad de filtros de papel, conservando los aceites naturales del grano para un café más aromático y con cuerpo. Reutilizable, resistente y fácil de limpiar, es la alternativa ecológica y duradera para preparar café de especialidad en casa u oficina.",
+    "precio": 45000,
     "color": [
-      "Variado"
+      "Acero Inoxidable"
     ],
     "categorias": [
       "Todos Los Productos",
       "Hogar"
     ],
     "imagenes": [
+      "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/5.jpg",
       "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/1.jpg",
       "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/3.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/4.jpg",      
+      "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/6.jpg",      
+      "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/8.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL078-SoporteFiltroCafeReutilizableCapaAceroInoxidable/12.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/u5aBzHQNq10?si=QNCUm2xuzNhb-y0X",
     "caracteristicas": [
-      "Durable",
-      "Fácil de usar",
-      "Lavable"
+      "Malla ultrafina",
+      "Fabricado en acero inoxidable",
+      "Reutilizable y ecológico",
+      "Mantiene los aceites naturales del café",
+      "Fácil de usar y limpiar"
     ],
     "agotado": false
   },
 
   {
     "id": "AL079-CordonGafasAntideslizanteAjustable",
-    "nombre": "Cordón para Gafas Antideslizante Ajustable",
-    "descripcion": "Cordón ajustable antideslizante para gafas, ideal para deporte o uso diario.",
-    "precio": 30000,
+    "nombre": "Correa Elástica Cordón Ajustable Soporte Para Gafas Lentes",
+    "descripcion": "La correa elástica con cordón ajustable para gafas y lentes es el accesorio perfecto para mantener tus gafas siempre seguras y cómodas. Su diseño ligero y flexible se adapta a diferentes tamaños de patillas, evitando caídas y pérdidas durante actividades diarias, deportivas o al aire libre. Ideal para quienes buscan practicidad y comodidad sin sacrificar estilo.",
+    "precio": 10000,
     "color": [
-      "Variado"
+      "Negro"
     ],
     "categorias": [
       "Todos Los Productos",
       "Deportes",
-      "Hombres"
+      "Hombres",
+      "Mujeres"
     ],
     "imagenes": [
+       "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/8.jpg",
       "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/1.jpg",
       "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/7.jpg",     
+      "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/12.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL079-CordonGafasAntideslizanteAjustable/13.jpg"
+
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/hQona1KJ60I?si=Una0u5PLI1doeqW5",
     "caracteristicas": [
-      "Ajustable",
-      "Antideslizante",
-      "Ligero"
+      "Correa elástica ajustable",
+      "Ligera y cómoda",
+      "Diseño seguro",
+      "Versátil y práctica",
+      "Fácil de usar"
     ],
     "agotado": false
   },
 
   {
     "id": "AL080-GanchosCueroCochecitoBebe",
-    "nombre": "Gancho de Cuero para Cochecito de Bebé",
-    "descripcion": "Gancho de cuero para cochecito de bebé, resistentes y fáciles de colocar. Transporta tus articulos con comodidad.",
-    "precio": 30000,
+    "nombre": "Gancho De Cuero Para Colgar Bolso En Coche De Bebe",
+    "descripcion": "El gancho de cuero para coche de bebé es un accesorio práctico y elegante que facilita llevar bolsos, mochilas o compras de manera segura y organizada. Su diseño resistente con cierre de velcro permite ajustarlo fácilmente al manillar del coche, ofreciendo comodidad y estilo mientras paseas con tu bebé.",
+    "precio": 15000,
     "color": [
-      "Variado"
+      "Negro",
+      "Marrón"
     ],
     "categorias": [
       "Todos Los Productos",
-      "Bebés"
+      "Bebés",
+      "Hogar", 
+      "Mujeres"
     ],
     "imagenes": [
+      "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/9.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/8.jpg",
       "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/1.jpg",
       "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/2.jpg",
       "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/3.jpg",
       "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/4.jpg",
-      "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/5.jpg"
+      "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/5.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/6.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/7.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/8.jpg",      
+      "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/10.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/11.jpg",
+      "https://outletshop.github.io/imgTienda/img/AL080-GanchosCueroCochecitoBebe/12.jpg"
     ],
-    "video": "https://www.youtube.com/embed/pendiente",
+    "video": "https://www.youtube.com/embed/GMk2ziS4TUY?si=oWKeNkLIbdHOdp7t",
     "caracteristicas": [
-      "Instalación rápida",
-      "Alta resistencia",
-      "Compatibles universales"
+      "Fabricado en cuero resistente",
+      "Fácil instalación con velcro ajustable",
+      "Gancho metálico de alta resistencia",
+      "Diseño compacto y práctico",
+      "Aporta comodidad y organización"
     ],
     "agotado": false
   },
