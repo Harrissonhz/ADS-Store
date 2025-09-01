@@ -2663,7 +2663,7 @@
     "id": "AL071-CucharaArrozCubierta",
     "nombre": "Cuchara para Arroz con Cubierta",
     "descripcion": "La cuchara para arroz con cubierta es un accesorio práctico y funcional para tu cocina, diseñado para servir arroz de manera higiénica y sin que se pegue. Su cubierta protectora evita el contacto directo con superficies, manteniéndola siempre limpia y lista para usar. Fabricada en materiales resistentes y fáciles de lavar, es ideal para uso diario en el hogar.",
-    "precio": 8,
+    "precio": 8000,
     "color": [
       "Blamco y Gris"
     ],
@@ -2792,13 +2792,14 @@
       "https://outletshop.github.io/imgTienda/img/AL075-BolsaAlmacenamientoZapatos/13.jpg"
       
     ],
-    "video": "https://www.youtube.com/embed/u5aBzHQNq10?si=ohTqY_sjSxYx6wnz",
+    "video": "https://www.youtube.com/embed/1HLlf8woFjA?si=A1j8jDi70yz1awEF",
     "caracteristicas": [
       "Incluye 10 bolsas organizadoras",
       "Material resistente y transpirable",
       "Diseño con cordón ajustable",
       "Prácticas y reutilizables",
-      "Fáciles de limpiar"
+      "Fáciles de limpiar",
+      "32 cm X 48 cm"
     ],
     "agotado": false
   },
